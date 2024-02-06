@@ -1,4 +1,4 @@
-# code_pathshala
+# Code Pathshala
 
 A new Flutter project.
 
